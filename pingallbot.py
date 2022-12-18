@@ -257,7 +257,7 @@ Hey, let's have a quick look at my commands.
 - /bots: <i>Get the full bot list.</i>
 - /stop: <i>Stop an on going process.</i>
 
-If you have any questions on how to use me, feel free to ask in my [support group](https://t.me/teletipsofficialontopicchat). More on my [page](https://github.com/teletips/PingAllBot-TeLeTiPs).
+If you have any questions on how to use me, feel free to ask in my [support group](https://t.me/ENGLISH_SPEAKERSSS). More on my [page](https://github.com/teletips/PingAllBot-TeLeTiPs).
 '''
   await teletips.send_message(message.chat.id, text, disable_web_page_preview=True)
 
