@@ -240,7 +240,7 @@ I have some additional cool features and also I can work in channels.
 
 Don't forget to join my [channel](https://t.me/cute_applee) to recieve information on all the latest updates.
 
-Hit /help to find out my commands and the use of them.
+Hit /help to find out my commands and the use of them powered by 𝐊𝐕 -𝐱𝐃 °|.
 '''
   await teletips.send_message(message.chat.id, text, disable_web_page_preview=True)
 
